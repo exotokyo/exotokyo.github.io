@@ -1,6 +1,6 @@
 # ExoTokyo
 
-## A group of jazz musicians building a data pipeline for [TESS](https://tess.mit.edu/) FFI data
+## A group of jazz musicians building a [pipeline](https://exotokyo.github.io/tess-pipeline/) for [TESS](https://tess.mit.edu/) FFI data
 
 ### Scientific interests include:
 
